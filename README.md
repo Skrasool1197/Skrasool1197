@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skrasool1197
+- 👋 Hi, I’m Rasool Shaikh, a final-year undergrad at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram  
 - 👀 I’m interested in Machine Learning, Deep Learning, Data Analytics and Generative AI  
 - 🌱 I’m currently learning advanced AI frameworks like LangChain and improving my skills in Neural Networks, NLP, and GANs  
 - 💞️ I’m looking to collaborate on AI-driven projects, especially in Data analysis and intelligent chatbot development  
