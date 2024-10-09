@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love sports, especially football, and enjoy watching anime!
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasool-shaikh-7a4923227/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rasool(@RasoolS81552267) / X)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RasoolS81552267)
 
 
 
