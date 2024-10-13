@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Rasool Shaikh</h1>
-<h3 align="center">**AI/ML Developer**</h3>
+<h3 align="center">AI/ML Developer</h3>
 
 - 👨🏻‍🎓 A final-year undergrad at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram  
 - 👀 I’m interested in Machine Learning, Deep Learning, Data Analytics and Generative AI  
@@ -8,7 +8,8 @@
 - 📫 How to reach me: skrasool1197@gmail.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love sports, especially football, and enjoy watching anime!
-  
+
+<h3 align="center">🔗 Links</h3>
 ## 🔗 Links
 <a href="https://x.com/RasoolS81552267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RasoolS81552267" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rasool-shaikh-7a4923227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasool-shaikh-7a4923227" height="30" width="40" /></a>
