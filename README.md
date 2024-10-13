@@ -10,11 +10,6 @@
 - ⚡ Fun fact: I love sports, especially football, and enjoy watching anime!
   
 ## 🔗 Links
-<! --
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasool-shaikh-7a4923227/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RasoolS81552267) 
- -->
-
 <a href="https://x.com/RasoolS81552267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RasoolS81552267" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rasool-shaikh-7a4923227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasool-shaikh-7a4923227" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rasool_shaikh_7_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasool_shaikh_7_" height="30" width="40" /></a>
