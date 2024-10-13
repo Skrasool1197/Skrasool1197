@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Rasool Shaikh</h1>
-<h3 align="center">AI/ML Developer</h3>
+<h3 align="center">**AI/ML Developer**</h3>
 
 - 👨🏻‍🎓 A final-year undergrad at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram  
 - 👀 I’m interested in Machine Learning, Deep Learning, Data Analytics and Generative AI  
