@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/rasool-shaikh-7a4923227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasool-shaikh-7a4923227" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rasool_shaikh_7_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasool_shaikh_7_" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 
 
 <!---
