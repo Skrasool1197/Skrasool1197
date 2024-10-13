@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/rasool-shaikh-7a4923227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasool-shaikh-7a4923227" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rasool_shaikh_7_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasool_shaikh_7_" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/rasool-shaikh-7a4923227/" target="blank"><img align="center" src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.87 28.87" id="instagram">
+<a href="https://www.linkedin.com/in/rasool-shaikh-7a4923227/" target="blank"><img align="center" src=<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.87 28.87" id="instagram">
   <defs>
     <linearGradient id="linear-gradient" x1="-1.84" x2="32.16" y1="30.47" y2="-3.03" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fed576"></stop>
@@ -36,7 +36,7 @@
       </g>
     </g>
   </g>
-</svg>" height="30" width="40" /></a>
+</svg> height="30" width="40" /></a>
 
 
 <!---
