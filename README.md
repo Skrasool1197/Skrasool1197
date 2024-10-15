@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/rasool_shaikh_7_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasool_shaikh_7_" height="30" width="40" /></a>
 
 ## 🗂️ Portfolio
-![Want to Know More? View My Portfolio!]('https://sunny-gumption-85eabb.netlify.app/')
+![Want to Know More? View My Portfolio!](https://sunny-gumption-85eabb.netlify.app/)
 
 
 [Click here to see a video about this work](https://youtu.be/BvfQq1-rpVc)
