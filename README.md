@@ -21,7 +21,7 @@
 
 ## 🗂️ Portfolio
 <a href="https://sunny-gumption-85eabb.netlify.app/" target="blank"><img align="center" alt="Portfolio" height="30" width="40" /></a>
-[Want to Know More? View My Portfolio!]('https://sunny-gumption-85eabb.netlify.app/')
+![Want to Know More? View My Portfolio!]('https://sunny-gumption-85eabb.netlify.app/')
 
 <!---
 Skrasool1197/Skrasool1197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
