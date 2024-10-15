@@ -20,6 +20,7 @@
 <a href="https://www.instagram.com/rasool_shaikh_7_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasool_shaikh_7_" height="30" width="40" /></a>
 
 ## 🗂️ Portfolio
+<a href="https://sunny-gumption-85eabb.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Portfolio" height="30" width="40" /></a>
 <!---
 Skrasool1197/Skrasool1197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
