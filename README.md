@@ -22,8 +22,6 @@
 ## 🗂️ Portfolio
 [Want to Know More? View My Portfolio!](https://sunny-gumption-85eabb.netlify.app/)
 
-
-[Click here to see a video about this work](https://youtu.be/BvfQq1-rpVc)
 <!---
 Skrasool1197/Skrasool1197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
