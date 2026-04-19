@@ -32,17 +32,9 @@
 
 ## 🔗 Links
 
-<p align="left">
-  <a href="https://x.com/RasoolS81552267" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rasool-shaikh-7a4923227/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/rasool_shaikh_7_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-000?logo=twitter&logoColor=white)](https://x.com/RasoolS81552267)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasool-shaikh-7a4923227/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rasool_shaikh_7_/)
 
 ---
 
